@@ -9,9 +9,9 @@
 
 
 <h5>Fontes:</h5>
-<span>https://github.com/bedimcode/responsive-halloween-website</span>
-<span>https://boxicons.com/</span>
-<span>https://fonts.google.com/</span>
-<span>https://github.com/bedimcode</span>
-<span>https://swiperjs.com/</span>
+<span>https://github.com/bedimcode/responsive-halloween-website</span></br>
+<span>https://boxicons.com/</span></br>
+<span>https://fonts.google.com/</span></br>
+<span>https://github.com/bedimcode</span></br>
+<span>https://swiperjs.com/</span></br>
 <span>https://colors.dopely.top/gradients</span>
