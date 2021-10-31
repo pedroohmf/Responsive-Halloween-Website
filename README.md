@@ -15,3 +15,6 @@
 <span>https://github.com/bedimcode</span></br>
 <span>https://swiperjs.com/</span></br>
 <span>https://colors.dopely.top/gradients</span>
+
+<img src="/print.png">
+
